@@ -10,3 +10,5 @@
 [PixelPlusUI](https://ppui.site/)
 
 [PixelExperience](https://download.pixelexperience.org/)
+
+[EvolutionX](https://evolution-x.org/)
