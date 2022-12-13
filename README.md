@@ -6,3 +6,7 @@
 [PixelOS](https://pixelos.net/)
 
 [AospExtended](https://github.com/AospExtended)
+
+[PixelPlusUI](https://ppui.site/)
+
+[PixelExperience](https://download.pixelexperience.org/)
