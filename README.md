@@ -16,3 +16,5 @@
 [ArrowOS](https://arrowos.net/)
 
 [dotOS](https://www.droidontime.com/)
+
+[Havoc-OS](https://havoc-os.com/)
