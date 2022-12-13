@@ -18,3 +18,5 @@
 [dotOS](https://www.droidontime.com/)
 
 [Havoc-OS](https://havoc-os.com/)
+
+[CherishOS](https://cherishos.com/)
